@@ -1,4 +1,4 @@
-Raspberry Pi model B+ ultimate Kit- $141.47 [Image for the Invoice] ( https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/invoices/RaspberryInvoice.png )   
+Raspberry Pi model B+ ultimate Kit- $141.47 [Image for the Invoice](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/invoices/RaspberryInvoice.png)   
 
 3-axis accelerometer (MMMA8451)- $30.50 [Image for the Invoice] ( https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/invoices/Sensor.png )   
 
