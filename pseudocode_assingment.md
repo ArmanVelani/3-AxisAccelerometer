@@ -42,7 +42,7 @@ Loop
 }  
   
   
-!(UML Diagram)  
+![UML Diagram](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/pseudocode%20images/uml%20diagram.png)  
   
   
 GRADES FOR OTHER STUDENTS  
