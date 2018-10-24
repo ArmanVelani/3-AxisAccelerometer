@@ -1,8 +1,7 @@
 # 3-AxisAccelerometer(MMA8451)
 ## About the MMA8451 ##
 
-The MMA8451 is a low-cost but high-precision digital accelerometer that uses repeated-start I2C mode, with adjustable data rata and 'range' (+/-2/4/8).
-
+The MMA8451 is a low-cost but high-precision digital accelerometer that uses repeated-start I2C mode, with adjustable data rata and 'range' (+/-2/4/8).In this project it is used to measure the accel readings using raspberry pi 3.
 More information on the MMA8451 can be found in the [datasheet](http://www.adafruit.com/datasheets/MMA8451Q-1.pdf)
 
 # Initial Preparation
