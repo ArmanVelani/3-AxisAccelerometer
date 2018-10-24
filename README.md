@@ -3,7 +3,7 @@
 
 The MMA8451 is a low-cost but high-precision digital accelerometer that uses repeated-start I2C mode, with adjustable data rata and 'range' (+/-2/4/8).
 
-More information on the MMA8451 can be found in the !datasheet(http://www.adafruit.com/datasheets/MMA8451Q-1.pdf)
+More information on the MMA8451 can be found in the ![datasheet](http://www.adafruit.com/datasheets/MMA8451Q-1.pdf)
 
 # Initial Preparation
 This section explains how to setup the whole things to test your MMA8451 device on a Raspberry Pi
