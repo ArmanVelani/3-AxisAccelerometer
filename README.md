@@ -18,7 +18,7 @@ This section explains how to setup the whole things to test your MMA8451 device 
     7. One MMA85451 3-axis accelerometer sensor
 
 * Also have available...
-    8. A good internet connection (to access the internet)
-    9. A LAN switch (to connect you RPi to the internet) and a RJ45 UTP/STP LAN straight Cable (patch cord)
-    10. Another PC (either Windows, Linux or Mac will be OK)
-    11. Enough patience and Spirit of Adventure :)
+    1. A good internet connection (to access the internet)
+    2. A LAN switch (to connect you RPi to the internet) and a RJ45 UTP/STP LAN straight Cable (patch cord)
+    3. Another PC (either Windows, Linux or Mac will be OK)
+    4. Enough patience and Spirit of Adventure :)
