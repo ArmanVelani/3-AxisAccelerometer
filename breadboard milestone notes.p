@@ -9,6 +9,6 @@ also the pins chart for raspberry pi was avaliable with the ultimate kit bought 
 * Then the raspberry pi was turned on.
 * on the terminal type "i2cdetect -y 1" ( without "") and checked if the sensor was connected properly to the pi.
 
-## IMAGE FOR THE WIRE CONNECTIONS ![image]()
-## IMAGE FOR THE SETUP ![image]()
+## IMAGE FOR THE WIRE CONNECTIONS ![image](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/breadboard%20milestone%20images/Sensor%20connection.jpeg)
+## IMAGE FOR THE SETUP ![image](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/breadboard%20milestone%20images/Setup.jpeg)
 ## IMAGE FOR FRITZING DIAGRAM ![image]()
