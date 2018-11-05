@@ -11,4 +11,4 @@ also the pins chart for raspberry pi was avaliable with the ultimate kit bought 
 
 ## IMAGE FOR THE WIRE CONNECTIONS ![image](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/breadboard%20milestone%20images/Sensor%20connection.jpeg)
 ## IMAGE FOR THE SETUP ![image](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/breadboard%20milestone%20images/Setup.jpeg)
-## IMAGE FOR FRITZING DIAGRAM ![image](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/breadboard%20milestone%20images/fritzing%20diagram.png)
+## IMAGE FOR FRITZING DIAGRAM ![image](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/breadboard%20milestone%20images/fritzing%20diagram.jpeg)
