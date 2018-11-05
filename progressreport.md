@@ -1,4 +1,4 @@
-# How it reached upto breadboard milestone  
+# PROGRESS REPORT  
 
 * I started with figuring out the basing ground and the vcc input pins on the raspberry pi and on the sensor. It was very easy as the sensor had all te pins labelled.
 also the pins chart for raspberry pi was avaliable with the ultimate kit bought from canait
