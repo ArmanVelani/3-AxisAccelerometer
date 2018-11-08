@@ -4,4 +4,4 @@ Raspberry Pi model B+ ultimate Kit- $141.47 ![raspberryinvoice](https://user-ima
 
 USB to Ethernet connector Anker A7611- $31.53 ![adapter](https://user-images.githubusercontent.com/43188450/48223645-98d38080-e365-11e8-8b0b-39cfda79556b.PNG)   
 
-Parts kit- $135.60 ![partskit](https://user-images.githubusercontent.com/43188450/48223983-80b03100-e366-11e8-986c-078eec03a598.png)
+Parts kit- $135.60  ![partskit](https://user-images.githubusercontent.com/43188450/48223983-80b03100-e366-11e8-986c-078eec03a598.png)
