@@ -22,9 +22,17 @@ i also wanted to attach some additional link for my [Pseudocode and UMl diagram]
 
 ### September 18th, 2018 (Week 03)
 
+Today the project Schedule was due. My schedule basically includes all the dates in need in order to finish my Project on time. Also I told Mr. Medri about the group I would prefer in future. I selected Gursehaj and Shubham as i am already in a group with them for my software class. Gursehaj is currently working on a Barometric Pressure Sensor (model) whereas Shubham is working on Temperature Sensor ( model). In future we will connect all the sensors in order to used it as an extended attachment for Drones. It might be Published by our company we named as SAG Droning. (Shubham, Arman, Gursehaj Droning)
+
+Hopes up! Seeking for the best...
+
 ### September 11th, 2018 (Week 02)
 
+Today I picked a sensor topic to work on. I selected a triple Axis Acceleerometer(MMA8451). This sensor is used in order to determine the x, y and z axis of a device it is attached on. I also submitted a proper proposal to my instruction Mr. Kristain Medri.
+
 ### September 04th, 2018 (Week 01)
+
+Here I tested and Blinked an led on my Raspberry Pi 3. Althought it was not done on time due to personal Reason, I did not blog about it. The process i followed and other details are [here](https://six0four.github.io/ceng317/wk01.html).
 
 ##Parts Order Invoice
 Raspberry Pi model B+ ultimate Kit- $141.47  
