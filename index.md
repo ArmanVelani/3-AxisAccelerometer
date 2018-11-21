@@ -16,7 +16,9 @@ I collabrated with [Gursehaj](https://gursehajharika.github.io/barometricsensor/
 Here is my Python code that was used in order to read data from the Sensor. Click the image to get the link.
 [![Python Code](https://user-images.githubusercontent.com/43188450/48862483-81988800-ed94-11e8-902c-ec6e4a4453eb.jpeg)]()
 I am also uploading a video for it. You will have to [download](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/WhatsApp%20Video%202018-11-13%20at%2010.57.24%20PM.mp4) it in order to view it.
+
 My [Progress report](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/progressreport.md) is updated.
+
 According to my [budget](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Budget.xlsx) Nothing has changed so far other that the Stackable headers I talked before about.
 
 ### November 06th, 2018 (Week 10)
