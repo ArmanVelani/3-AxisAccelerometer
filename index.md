@@ -20,15 +20,16 @@ i also wanted to attach some additional link for my [Pseudocode and UMl diagram]
 
 ### September 25th, 2018 (Week 04)
 
+
 ### September 18th, 2018 (Week 03)
 
-Today the project Schedule was due. My schedule basically includes all the dates in need in order to finish my Project on time. Also I told Mr. Medri about the group I would prefer in future. I selected Gursehaj and Shubham as i am already in a group with them for my software class. Gursehaj is currently working on a Barometric Pressure Sensor (model) whereas Shubham is working on Temperature Sensor ( model). In future we will connect all the sensors in order to used it as an extended attachment for Drones. It might be Published by our company we named as SAG Droning. (Shubham, Arman, Gursehaj Droning)
+Today the project [Schedule](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Schedule.mppwas) due. My schedule basically includes all the dates i need in order to finish my Project on time. Also I told Mr. Medri about the group I would prefer in future. I selected [Gursehaj](https://github.com/GursehajHarika) and [Shubham](https://github.com/Shubhamsharma1101) as i am already in a group with them for my software class. Gursehaj is currently working on a Barometric Pressure Sensor ([MS5611](https://img.dxcdn.com/productimages/sku_436671_1.jpg)) whereas Shubham is working on Temperature Sensor ([TMP102](https://cdn.shopify.com/s/files/1/0915/1182/products/13314-03a.jpg?v=1486427078)). In future we will connect all the sensors in order to used it as an extended attachment for Drones. It might be Published by our company we named as SAG Droning. (Shubham, Arman, Gursehaj Droning)
 
 Hopes up! Seeking for the best...
 
 ### September 11th, 2018 (Week 02)
 
-Today I picked a sensor topic to work on. I selected a triple Axis Acceleerometer(MMA8451). This sensor is used in order to determine the x, y and z axis of a device it is attached on. I also submitted a proper proposal to my instruction Mr. Kristain Medri.
+Today I picked a sensor topic to work on. I selected a triple Axis Acceleerometer([MMA8451](https://cdn-learn.adafruit.com/assets/assets/000/018/474/medium800/sensors_pinouts.jpg?1406662993)). This sensor is used in order to determine the x, y and z axis of a device it is attached on. I also submitted a proper proposal to my instruction Mr. Kristain Medri.
 
 ### September 04th, 2018 (Week 01)
 
