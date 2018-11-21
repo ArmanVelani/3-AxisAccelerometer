@@ -4,7 +4,7 @@
 
 ### November 06th, 2018 (Week 10)
 
-Today is the PCB soldered milestone, according to my [project schedule](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Schedule.mpp). I am on track since i started designing my PCB on 12 october2018 and have completed the designing, printing and soldering the board. I will finish with all the testing of my PCB upto 15 november 2018 as per my schedule. Something i found very useful was the [datasheet](http://www.adafruit.com/datasheets/MMA8451Q-1.pdf) for my sensor [MMA8451](https://www.amazon.ca/gp/product/B00SK8LS4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1). Regarding my financial status, my budget(will be uploaded soon) included headers but not the stackable ones, so i had to get it from the prototype lab. This won't add any direct expense on the budget as the cost is included in tuition fees for my course. Still in order to buy it i will provide the [link](https://www.creatroninc.com/product/stackable-header-for-raspberry-pi/). I took guidance and help from my professor Mr. Kristain Medri for creating the first [Gerber](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/MMA8451.fzz) files and then later it was sent for production. My new fritzing looks like ![fritzing image](https://user-images.githubusercontent.com/43188450/48366901-30deac00-e67d-11e8-860c-0fb92a65a9b9.jpeg)
+Today is the PCB soldered milestone, according to my [project schedule](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Schedule.mpp). I am on track since i started designing my PCB on 12 october2018 and have completed the designing, printing and soldering the board. I will finish with all the testing of my PCB upto 15 november 2018 as per my schedule. Something i found very useful was the [datasheet](http://www.adafruit.com/datasheets/MMA8451Q-1.pdf) for my sensor [MMA8451](https://www.amazon.ca/gp/product/B00SK8LS4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1). Regarding my financial status, [my budget](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Budget.xlsx) included headers but not the stackable ones, so i had to get it from the prototype lab. This won't add any direct expense on the budget as the cost is included in tuition fees for my course. Still in order to buy it i will provide the [link](https://www.creatroninc.com/product/stackable-header-for-raspberry-pi/). I took guidance and help from my professor Mr. Kristain Medri for creating the first [Gerber](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/MMA8451.fzz) files and then later it was sent for production. My new fritzing looks like ![fritzing image](https://user-images.githubusercontent.com/43188450/48366901-30deac00-e67d-11e8-860c-0fb92a65a9b9.jpeg)
 Also i have the image of my complete soldered and ready PCB ![PCB image](https://user-images.githubusercontent.com/43188450/48441706-3a8a1180-e75a-11e8-9a3f-52c6deba1b4c.jpeg)
 i also wanted to attach some additional link for my [Pseudocode and UMl diagram](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/pseudocode_assingment.md), [Progress Report](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/progressreport.md).
 
@@ -20,11 +20,20 @@ i also wanted to attach some additional link for my [Pseudocode and UMl diagram]
 
 ### September 25th, 2018 (Week 04)
 
+
 ### September 18th, 2018 (Week 03)
+
+Today the project [Schedule](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Schedule.mppwas) due. My schedule basically includes all the dates i need in order to finish my Project on time. Also I told Mr. Medri about the group I would prefer in future. I selected [Gursehaj](https://github.com/GursehajHarika) and [Shubham](https://github.com/Shubhamsharma1101) as i am already in a group with them for my software class. Gursehaj is currently working on a Barometric Pressure Sensor ([MS5611](https://img.dxcdn.com/productimages/sku_436671_1.jpg)) whereas Shubham is working on Temperature Sensor ([TMP102](https://cdn.shopify.com/s/files/1/0915/1182/products/13314-03a.jpg?v=1486427078)). In future we will connect all the sensors in order to use it as an extended attachment for Drones. It might be Published by our company we named as SAG Droning. (Shubham, Arman, Gursehaj Droning)
+
+Hopes up! Seeking for the best...
 
 ### September 11th, 2018 (Week 02)
 
+Today I picked a sensor topic to work on. I selected a triple Axis Acceleerometer([MMA8451](https://cdn-learn.adafruit.com/assets/assets/000/018/474/medium800/sensors_pinouts.jpg?1406662993)). This sensor is used in order to determine the x, y and z axis of a device it is attached on. I also submitted a proper proposal to my instruction Mr. Kristain Medri.
+
 ### September 04th, 2018 (Week 01)
+
+Here I tested and Blinked an led on my Raspberry Pi 3. Althought it was not done on time due to personal Reason, I did not blog about it. The process I followed and other details are [here](https://six0four.github.io/ceng317/wk01.html).
 
 ##Parts Order Invoice
 Raspberry Pi model B+ ultimate Kit- $141.47  
