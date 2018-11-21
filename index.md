@@ -23,7 +23,7 @@ i also wanted to attach some additional link for my [Pseudocode and UMl diagram]
 
 ### September 18th, 2018 (Week 03)
 
-Today the project [Schedule](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Schedule.mppwas) due. My schedule basically includes all the dates i need in order to finish my Project on time. Also I told Mr. Medri about the group I would prefer in future. I selected [Gursehaj](https://github.com/GursehajHarika) and [Shubham](https://github.com/Shubhamsharma1101) as i am already in a group with them for my software class. Gursehaj is currently working on a Barometric Pressure Sensor ([MS5611](https://img.dxcdn.com/productimages/sku_436671_1.jpg)) whereas Shubham is working on Temperature Sensor ([TMP102](https://cdn.shopify.com/s/files/1/0915/1182/products/13314-03a.jpg?v=1486427078)). In future we will connect all the sensors in order to used it as an extended attachment for Drones. It might be Published by our company we named as SAG Droning. (Shubham, Arman, Gursehaj Droning)
+Today the project [Schedule](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Schedule.mppwas) due. My schedule basically includes all the dates i need in order to finish my Project on time. Also I told Mr. Medri about the group I would prefer in future. I selected [Gursehaj](https://github.com/GursehajHarika) and [Shubham](https://github.com/Shubhamsharma1101) as i am already in a group with them for my software class. Gursehaj is currently working on a Barometric Pressure Sensor ([MS5611](https://img.dxcdn.com/productimages/sku_436671_1.jpg)) whereas Shubham is working on Temperature Sensor ([TMP102](https://cdn.shopify.com/s/files/1/0915/1182/products/13314-03a.jpg?v=1486427078)). In future we will connect all the sensors in order to use it as an extended attachment for Drones. It might be Published by our company we named as SAG Droning. (Shubham, Arman, Gursehaj Droning)
 
 Hopes up! Seeking for the best...
 
@@ -33,7 +33,7 @@ Today I picked a sensor topic to work on. I selected a triple Axis Acceleeromete
 
 ### September 04th, 2018 (Week 01)
 
-Here I tested and Blinked an led on my Raspberry Pi 3. Althought it was not done on time due to personal Reason, I did not blog about it. The process i followed and other details are [here](https://six0four.github.io/ceng317/wk01.html).
+Here I tested and Blinked an led on my Raspberry Pi 3. Althought it was not done on time due to personal Reason, I did not blog about it. The process I followed and other details are [here](https://six0four.github.io/ceng317/wk01.html).
 
 ##Parts Order Invoice
 Raspberry Pi model B+ ultimate Kit- $141.47  
