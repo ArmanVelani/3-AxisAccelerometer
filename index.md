@@ -14,7 +14,7 @@ I collabrated with [Gursehaj](https://gursehajharika.github.io/barometricsensor/
 ![Sensors Stacked and working](https://user-images.githubusercontent.com/43188450/48862531-a260dd80-ed94-11e8-9e08-a28f0783966a.jpeg)
 
 Here is my Python code that was used in order to read data from the Sensor. Click the image to get the link.
-[![Python Code](https://user-images.githubusercontent.com/43188450/48862483-81988800-ed94-11e8-902c-ec6e4a4453eb.jpeg)]()
+[![Python Code](https://user-images.githubusercontent.com/43188450/48862483-81988800-ed94-11e8-902c-ec6e4a4453eb.jpeg)](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/PythonCode.txt)
 I am also uploading a video for it. You will have to [download](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/WhatsApp%20Video%202018-11-13%20at%2010.57.24%20PM.mp4) it in order to view it.
 
 My [Progress report](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/progressreport.md) is updated.
