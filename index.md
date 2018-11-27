@@ -1,7 +1,7 @@
 ### November 27th, 2018 (Week 13)
 
-Today was my [presentation](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/pptHArdware.pptx) Due. It went well as i covered all the topics required. Unfortunately after the presentation i dropped my stackable case and broke it. my sensors and raspberry pi were safe but the [glass case](![BrokenHeart](https://user-images.githubusercontent.com/43188450/49114006-130c6c00-f265-11e8-87db-4841adde0726.jpeg)
-) shattered into pieces. Luckily i can print a new one from the corelDraw file i uploaded.
+Today was my [presentation](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/pptHArdware.pptx) Due. It went well as i covered all the topics required. Unfortunately after the presentation i dropped my stackable case and broke it. my sensors and raspberry pi were safe but the [glass case](https://user-images.githubusercontent.com/43188450/49114006-130c6c00-f265-11e8-87db-4841adde0726.jpeg)
+ shattered into pieces. Luckily i can print a new one from the corelDraw file i uploaded.
 Also i Recently updated my github page so i would recommend to go through it from bottom(start)
 
 ### November 20th, 2018 (Week 12)
