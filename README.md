@@ -34,8 +34,8 @@ Before starting with any project create your Budget about the project. Once you 
 This section explains how to setup the whole things to test your MMA8451 device on a Raspberry Pi. Once you have all The parts with you start with your raspberry Pi. Make Sure you do not power on the Raspbery Pi, Monitor or any other Components before finishing the setup. Connect a wireless keyboard/Mouse to your Raspberry Pi. Also attach one end of HDMI cable to your Raspberry Pi and other end to the Monitor. Once connected poweron the raspberry pi and Complete the Setup. For Help on Setting up raspberry Pi 3 visit this [Youtube Video.](https://www.youtube.com/watch?v=xBlxuf_LSCM).
 
 # Connection
-Now you need to Power off your raspberry Pi and disconnect the Power Source. Connect you MMMA8451 usingh some jumper cables as shown in the image Below.
-<img src="https://user-images.githubusercontent.com/43188450/48366908-35a36000-e67d-11e8-9476-107ec0f8258f.jpeg" width="30%" Height="5%">
+Now you need to Power off your raspberry Pi and disconnect the Power Source. Connect you MMMA8451 usingh some jumper cables as shown in the image Below.<br>
+<img src="https://user-images.githubusercontent.com/43188450/48366908-35a36000-e67d-11e8-9476-107ec0f8258f.jpeg" width="10%" Height="1%">
 <ul><li>raspberry Ground- MMA8451 Ground</li>
 <li>raspberry 3.3V- MMA8451 3.3V</li>
 <li>raspberry SCA- MMA8451 SCA</li>
