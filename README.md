@@ -35,11 +35,11 @@ This section explains how to setup the whole things to test your MMA8451 device 
 
 # Connection
 Now you need to Power off your raspberry Pi and disconnect the Power Source. Connect you MMMA8451 usingh some jumper cables as shown in the image Below.
-<div align="Left"><img src="https://user-images.githubusercontent.com/43188450/48366908-35a36000-e67d-11e8-9476-107ec0f8258f.jpeg" width="50%" Height="50%"></div>
-<div align="right">raspberry Ground- MMA8451 Ground\n
-raspberry 3.3V- MMA8451 3.3V\n
-raspberry SCA- MMA8451 SCA\n
-raspberry SCL- MMA8451 SCL\n</div>
+<div align="Left"><img src="https://user-images.githubusercontent.com/43188450/48366908-35a36000-e67d-11e8-9476-107ec0f8258f.jpeg" width="30%" Height="30%"></div>
+raspberry Ground- MMA8451 Ground
+raspberry 3.3V- MMA8451 3.3V
+raspberry SCA- MMA8451 SCA
+raspberry SCL- MMA8451 SCL
 
 
 
