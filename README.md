@@ -5,9 +5,10 @@
 <p align="center">
 <a href="https://github.com/ArmanVelani/3-AxisAccelerometer/archive/master.zip">Download as .zip</a>
 </p>
-<p align="center">
+<div align="center">
 <h2 align="center">System Diagram</h2>
-<img src="https://user-images.githubusercontent.com/43188450/48367169-deea5600-e67d-11e8-9f60-53604ff9a58f.png" width="80%" height="80%"  alt="image not found"></p>
+<img src="https://user-images.githubusercontent.com/43188450/48367169-deea5600-e67d-11e8-9f60-53604ff9a58f.png" width="80%" height="80%"  alt="image not found">
+</div>
 
 ## About the MMA8451 ##
 
