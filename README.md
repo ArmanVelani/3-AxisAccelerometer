@@ -14,6 +14,9 @@
 The MMA8451 is a low-cost but high-precision digital accelerometer that uses repeated-start I2C mode, with adjustable data rata and 'range' (+/-2/4/8).In this project it is used to measure the accel readings using raspberry pi 3.
 More information on the MMA8451 can be found in the [datasheet](http://www.adafruit.com/datasheets/MMA8451Q-1.pdf)
 
+# initial Preparation
+Before starting with any project create your Budget about the project. Once you have your Budget create a Schedule for your project. My project total Budget was $384 and the total time to complete the project was 4 months. The budget may vary as the prices of the parts changes. The schedule may also vary depending on the personal Schedule.
+
 # Parts Requirement
 1. [Raspberry Pi 3 Ultimate Starter kit-32 GB Edition](https://www.adafruit.com/product/3058).   $141.17
 2. [Adafruit Triple-Axis Accelerometer - 2/4/8g @ 14 bit - MMA8451](https://www.amazon.ca/gp/product/B00SK8LS4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)   $30.5
@@ -27,6 +30,16 @@ More information on the MMA8451 can be found in the [datasheet](http://www.adafr
 10.One HDMI monitor
 11. One HDMI cable.
 
-# Initial Preparation
+# Setup Raspberry Pi
 This section explains how to setup the whole things to test your MMA8451 device on a Raspberry Pi. Once you have all The parts with you start with your raspberry Pi. Make Sure you do not power on the Raspbery Pi, Monitor or any other Components before finishing the setup. Connect a wireless keyboard/Mouse to your Raspberry Pi. Also attach one end of HDMI cable to your Raspberry Pi and other end to the Monitor. Once connected poweron the raspberry pi and Complete the Setup. For Help on Setting up raspberry Pi 3 visit this [Youtube Video.](https://www.youtube.com/watch?v=xBlxuf_LSCM).
+
+# Connection
+Now you need to Power off your raspberry Pi and disconnect the Power Source. Connect you MMMA8451 usingh some jumper cables as shown in the image Below.
+<div align="Left"><img src="raspberry Ground- MMA8451 Ground" width="50%" Height="50%"></div>
+<div align="right">raspberry Ground- MMA8451 Ground
+raspberry 3.3V- MMA8451 3.3V
+raspberry SCA- MMA8451 SCA
+raspberry SCL- MMA8451 SCL</div>
+
+
 
