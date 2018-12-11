@@ -41,6 +41,17 @@ Now you need to Power off your raspberry Pi and disconnect the Power Source. Con
 <li>raspberry 3.3V- MMA8451 3.3V</li>
 <li>raspberry SCA- MMA8451 SCA</li>
 <li>raspberry SCL- MMA8451 SCL</li></ul>
+Once you have your Connections connect Power to raspberry pi and power it on.
+User command I2C Detect to check if the Sensor is connected properly.
 
+# Designing and Printing a PCB.
+Now you have your connections ready what you need is a PCB. you can [Download](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/MMA8451.fzz) my PCB that I created using the Fritzing Software. or you can design your own. Here is a tutorial on [fritzing](https://www.youtube.com/watch?v=M4CvUSkP9hw). 
+<img src="https://user-images.githubusercontent.com/43188450/48366901-30deac00-e67d-11e8-860c-0fb92a65a9b9.jpeg" width="50%">
+Now you Export your file for production as Gerber file. You can go to any local Company who Prints PCB.
+When you have your PCB use the stackable header for the RaspBerry and the Other Header soldered on the PCB. For tutorial on how to solder headers properly visit [here](https://learn.adafruit.com/adafruit-mma8451-accelerometer-breakout/assembly).
 
+This is how it should look when soldering is completed.
+<img src="https://user-images.githubusercontent.com/43188450/48862001-01bdee00-ed93-11e8-898b-70c879b291d1.jpeg" width="50%">
+
+# 
 
