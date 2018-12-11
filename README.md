@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://github.com/ArmanVelani/3-AxisAccelerometer/archive/master.zip">Download as .zip</a>
 </p>
+<img sre="https://user-images.githubusercontent.com/43188450/48367169-deea5600-e67d-11e8-9f60-53604ff9a58f.png" width="50%" height="50%" align="center">
 
 ## About the MMA8451 ##
 
@@ -25,11 +26,5 @@ More information on the MMA8451 can be found in the [datasheet](http://www.adafr
 11. One HDMI cable.
 
 # Initial Preparation
-This section explains how to setup the whole things to test your MMA8451 device on a Raspberry Pi. Once you have all The parts with you start with your raspberry Pi. Make Sure you do not power on the Raspbery Pi, Monitor or any other Components before finishing the setup. Connect a wireless keyboard/Mouse to your Raspberry Pi. Also attach one end of HDMI cable to your Raspberry Pi and other end to the Monitor.
+This section explains how to setup the whole things to test your MMA8451 device on a Raspberry Pi. Once you have all The parts with you start with your raspberry Pi. Make Sure you do not power on the Raspbery Pi, Monitor or any other Components before finishing the setup. Connect a wireless keyboard/Mouse to your Raspberry Pi. Also attach one end of HDMI cable to your Raspberry Pi and other end to the Monitor. Once connected poweron the raspberry pi and Complete the Setup. For Help on Setting up raspberry Pi 3 visit this [Youtube Video.](https://www.youtube.com/watch?v=xBlxuf_LSCM).
 
-
-* Also have available...
-    1. A good internet connection (to access the internet)
-    2. A LAN switch (to connect you RPi to the internet) and a RJ45 UTP/STP LAN straight Cable (patch cord)
-    3. Another PC (either Windows, Linux or Mac will be OK)
-    4. Enough patience and Spirit of Adventure :)
