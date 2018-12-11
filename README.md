@@ -12,8 +12,16 @@ The MMA8451 is a low-cost but high-precision digital accelerometer that uses rep
 More information on the MMA8451 can be found in the [datasheet](http://www.adafruit.com/datasheets/MMA8451Q-1.pdf)
 
 # Parts Requirement
-1. Raspberry Pi 3 
-Ultimate Starterkit-32 GB Edition
+1. [Raspberry Pi 3 Ultimate Starter kit-32 GB Edition](https://www.adafruit.com/product/3058).   $141.17
+2. Adafruit Triple-Axis Accelerometer - 2/4/8g @ 14 bit - MMA8451   $30.5
+3. Anker Unibody Aluminium USB 3.0 to Rj45 Gigabit Ethernet Adapter Supporting 10/100/1000 Mbps Ethernet [RTL8153 Chipset]  $31.53
+4. Parts kit [tool box] $135.60
+5. headers [[1xGPIO female header](https://www.adafruit.com/product/2222), [1x8 female header](https://www.creatroninc.com/product/stackable-header-set-for-arduino/?search_query=8+pin+stackable+header&results=48), [Stackable Headers](https://www.creatroninc.com/product/stackable-header-for-raspberry-pi/)] 
+6. Raspberry Pi 3 and sensor case.
+7. LED, soldering station, other cables
+8. wireless keyboard and mouse with usb reciver.    $45.20
+9. 4 Screws
+10.4 Nut
 
 # Initial Preparation
 This section explains how to setup the whole things to test your MMA8451 device on a Raspberry Pi
