@@ -1,4 +1,11 @@
-# 3-AxisAccelerometer(MMA8451)
+3-Axis Accelerometer- By Arman Velani
+
+<h1 align="center">MMA8451(Triple Axis Accelerometer</h1>
+
+<p align="center">
+<a href="https://github.com/ArmanVelani/3-AxisAccelerometer/archive/master.zip">Download as .zip</a>
+</p>
+
 ## About the MMA8451 ##
 
 The MMA8451 is a low-cost but high-precision digital accelerometer that uses repeated-start I2C mode, with adjustable data rata and 'range' (+/-2/4/8).In this project it is used to measure the accel readings using raspberry pi 3.
