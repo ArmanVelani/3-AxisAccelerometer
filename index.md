@@ -61,8 +61,8 @@ here is the connection ofor my sensor on Breadboard.
 ### October 02th, 2018 (Week 05)
 
 I have recieved most of the parts included in my [Budget](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Budget.xlsx). The remaining parts like the casing or PCB will be purchased in the comming weeks depending on my [Schedule](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Schedule.mppwas).
-##Here is my Proof of Purchase
-#Parts Order Invoice
+## Here is my Proof of Purchase
+# Parts Order Invoice
 Raspberry Pi model B+ ultimate Kit- $141.47  
 
 ![raspberryinvoice](https://user-images.githubusercontent.com/43188450/48224211-16e45700-e367-11e8-81d5-7193babb236a.png)   
