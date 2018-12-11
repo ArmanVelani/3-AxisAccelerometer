@@ -10,7 +10,7 @@ Also i Recently updated my github page so i would recommend to go through it fro
 Here we were suppose to create casing for our Sensor and raspberry pi. I thought of creating a stackable case. On the first storey there will be raspberry pi, on second the sensor, and later you can keep stacking based on your requirement.
 
 Here is image for the corelDraw cdr file that you can use for Laser cutting the case. Click image for downloading the cdr file.
-[![caseimg](https://user-images.githubusercontent.com/43188450/48863206-983fde80-ed96-11e8-895b-7cdab2ee6263.PNG)](https://github.coqam/ArmanVelani/3-AxisAccelerometer/raw/master/Pi2Casestack.cdr)
+[![caseimg](https://user-images.githubusercontent.com/43188450/48863206-983fde80-ed96-11e8-895b-7cdab2ee6263.PNG)](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/Pi2Casestack.cdr)
 Here is the image for the actual case that was printed and used. Click image for more Images.
 [![caseStack](https://user-images.githubusercontent.com/43188450/49106714-ea2eab80-f251-11e8-8a84-8aa38fb49a5a.jpeg)](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/other_case_images.md)
 I have also collabrated with Gursehaj Harika to made an extended case to fit in all sensors.
