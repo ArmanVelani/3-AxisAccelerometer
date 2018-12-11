@@ -1,6 +1,6 @@
 3-Axis Accelerometer- By Arman Velani
 
-<h1 align="center">MMA8451(Triple Axis Accelerometer</h1>
+<h1 align="center">MMA8451(Triple Axis Accelerometer)</h1>
 
 <p align="center">
 <a href="https://github.com/ArmanVelani/3-AxisAccelerometer/archive/master.zip">Download as .zip</a>
