@@ -57,5 +57,12 @@ This is how it should look when soldering is completed.
 <img src="https://user-images.githubusercontent.com/43188450/48862001-01bdee00-ed93-11e8-898b-70c879b291d1.jpeg" width="35%">
 <center>
 
-# 
+# Code
+Now you have you PCB ready but it is not still reading the code in order to read from the sensor you will need a python code.
+Download the code. compile the code and run it using 'sudo python3 <filename>'
+this is the [video](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/WhatsApp%20Video%202018-11-13%20at%2010.57.24%20PM.mp4) of how the sensor should work when the code is running sucessfully.
+this is how the [code output](https://user-images.githubusercontent.com/43188450/48862483-81988800-ed94-11e8-902c-ec6e4a4453eb.jpeg) and [PCB](https://user-images.githubusercontent.com/43188450/48862531-a260dd80-ed94-11e8-9e08-a28f0783966a.jpeg) looks.
+  
+# case
+To create the case just download the [coralDraw]() file of my case and send it for lasercutting.
 
