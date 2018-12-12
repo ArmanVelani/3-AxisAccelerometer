@@ -59,10 +59,19 @@ This is how it should look when soldering is completed.
 
 # Code
 Now you have you PCB ready but it is not still reading the code in order to read from the sensor you will need a python code.
-Download the code. compile the code and run it using 'sudo python3 <filename>'
+[Get the code](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/PythonCode.txt). compile the code and run it using 'sudo python3 <filename>'
 this is the [video](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/WhatsApp%20Video%202018-11-13%20at%2010.57.24%20PM.mp4) of how the sensor should work when the code is running sucessfully.
 this is how the [code output](https://user-images.githubusercontent.com/43188450/48862483-81988800-ed94-11e8-902c-ec6e4a4453eb.jpeg) and [PCB](https://user-images.githubusercontent.com/43188450/48862531-a260dd80-ed94-11e8-9e08-a28f0783966a.jpeg) looks.
   
 # case
-To create the case just download the [coralDraw]() file of my case and send it for lasercutting.
+To create the case just download the [coralDraw](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/Pi2Casestack.cdr) file of my case and send it for lasercutting. when your laser cut case is ready it should be like the image below. you can use it to stack multile sensors on the same raspberry pi.
+<img src="https://user-images.githubusercontent.com/43188450/49106925-70e38880-f252-11e8-94d2-0dfc12e6c991.jpeg" width ="50%">
+
+# testing 
+If you are creating an individual project you can follow the instrucions above and test it at each and every step before proceding further. for example test out thr breadboard then test out the pcb then test out the code then check ase measuremenet and test out the case and so on.
+
+If you are considering it as a mass prodution project i would suggest to have some necessary changes like create a printed multilayer circuit board which takes less space then the design above. Also another thing to consider for the PCB is to make it water resistant. the next item to look for would be the casing as a stackable case idea is not so good for a mass production because its delicate. instead you can go for plastic 3D printed cases and not aclervlic laser cutted cases.
+
+
+
 
