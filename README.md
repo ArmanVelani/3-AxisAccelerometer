@@ -15,8 +15,8 @@
 The MMA8451 is a low-cost but high-precision digital accelerometer that uses repeated-start I2C mode, with adjustable data rata and 'range' (+/-2/4/8).In this project it is used to measure the accel readings using raspberry pi 3.
 More information on the MMA8451 can be found in the [datasheet](http://www.adafruit.com/datasheets/MMA8451Q-1.pdf)
 
-# initial Preparation
-Before starting with any project create your Budget about the project. Once you have your Budget create a Schedule for your project. My project total Budget was $384 and the total time to complete the project was 4 months. The budget may vary as the prices of the parts changes. The schedule may also vary depending on the personal Schedule.
+# Initial Preparation
+Before starting with any project create your Budget about the project. Once you have your Budget create a Schedule for your project. My project total Budget was $384 and the total time to complete the project was 4 months. The budget may vary as the prices of the parts changes. The schedule may also vary depending on the personal Schedule. My [Budget](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Budget.xlsx), [Schedule](https://github.com/ArmanVelani/3-AxisAccelerometer/raw/master/Schedule.mpp) and [Bills of the material](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/Bills.md) are as follows.
 
 # Parts Requirement
 1. [Raspberry Pi 3 Ultimate Starter kit-32 GB Edition](https://www.adafruit.com/product/3058).   $141.17
